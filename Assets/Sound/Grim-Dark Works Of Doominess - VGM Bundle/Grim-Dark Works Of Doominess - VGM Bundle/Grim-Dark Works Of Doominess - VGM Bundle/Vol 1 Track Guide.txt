@@ -1,0 +1,25 @@
+**(NL) = No loop available for said track.
+
+[Cutscene/Character]
+1. Prologue of Grim-Dark Doominess (NL)
+2. That Vile Villain of Grim-Dark Doominess (NL)
+3. Tragic Sins of a Mad Doomy Doctor
+4. Revenant Perc-Vox
+5. A Doomy Dialogue with Evil (NL)
+6. Grim-Dark Bittersweet Youth (NL)
+7. Sad Absalom Time
+8. Self Reflection Of A Doomy Anti Hero
+16. A Very Doomy Game Over (NL)
+17. Epilogue of Grim-Dark Doominess (NL)
+
+[Town]
+9. Shady Town of Doominess
+10. Capital City of Doominess
+11. Funky Hill Town of Doominess
+12. Desert City of Doominess
+
+[Menu/Utility]
+13. Store & Overworld 1 of Doominess
+14. Stage Select & Overworld 2 of Doominess
+15. Mecha Menu & Customization of Doominess
+
